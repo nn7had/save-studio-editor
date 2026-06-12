@@ -1,0 +1,23 @@
+{
+  "name": "ets-save-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "concurrently \"vite\" \"wait-on .vite-port && electron --disable-gpu --disable-software-rasterizer --no-sandbox --disable-gpu-sandbox --disable-accelerated-2d-canvas --disable-gpu-compositing --disable-gpu-rasterization .\""
+  },
+  "dependencies": {
+    "@trucky/sii-decrypt-ts": "latest",
+    "pinia": "latest",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "concurrently": "latest",
+    "electron": "28.3.3",
+    "vite": "latest",
+    "wait-on": "latest"
+  }
+}
