@@ -1,0 +1,40 @@
+{
+  "latest_version": "1.1.0",
+  "minimum_version": "1.0.1",
+  "critical": false,
+  "download_url": "https://github.com/nn7had/save-studio-editor/releases/latest",
+  "published_at": "2026-06-28",
+"changelog": {
+  "tr": [
+    "Yeni Tır Editör eklendi.",
+    "Yeni Dorse Editör eklendi.",
+    "Editör arayüzü tamamen yenilendi.",
+    "Çoklu dil desteği geliştirildi.",
+    "Güncelleme sistemi eklendi.",
+    "Performans ve hata düzeltmeleri yapıldı."
+  ],
+  "en": [
+    "Added the new Truck Editor.",
+    "Added the new Trailer Editor.",
+    "Completely redesigned editor interface.",
+    "Improved multilingual support.",
+    "Added the update system.",
+    "Performance improvements and bug fixes."
+  ],
+  "de": [
+    "Neuer Truck-Editor hinzugefügt.",
+    "Neuer Trailer-Editor hinzugefügt.",
+    "Editor-Oberfläche vollständig überarbeitet.",
+    "Mehrsprachige Unterstützung verbessert.",
+    "Update-System hinzugefügt.",
+    "Leistungsverbesserungen und Fehlerbehebungen."
+  ],
+  "ru": [
+    "Добавлен новый редактор грузовиков.",
+    "Добавлен новый редактор прицепов.",
+    "Полностью обновлён интерфейс редактора.",
+    "Улучшена поддержка нескольких языков.",
+    "Добавлена система обновлений.",
+    "Повышена производительность и исправлены ошибки."
+  ]
+}
